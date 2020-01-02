@@ -1,7 +1,8 @@
 # gtps-reset
 
 A GTPS Auto Restart Made From Batch File 
-For More Detail >> [CLICK HERE](https://github.com/meffa1/gtps-reset/bloob/master/SUPPORT.json)
+For More Detail >> [CLICK HERE](https://github.com/meffa1/gtps-reset/blob/master/SUPPORT.json)
+
 ***USAGE***:
 
 1)Rename First Your Exe To "server.exe"
